@@ -12,6 +12,7 @@ const messages = {
     aboutUsTitle: "Sobre Nós",
     aboutUsMessage:
       "Somos uma empresa focada em soluções tecnológicas inteligentes que ajudam negócios a crescer, com uma equipe apaixonada por inovação e excelência.",
+    servicesMenuLabel: "Serviços",
     serviceSectionTitle: "Nossos Serviços",
     services: {
       web: {
@@ -73,6 +74,7 @@ const messages = {
     aboutUsTitle: "About Us",
     aboutUsMessage:
       "We are a company focused on intelligent technological solutions that help businesses grow, with a team passionate about innovation and excellence.",
+    servicesMenuLabel: "Services",
     serviceSectionTitle: "Our Services",
     services: {
       web: {
@@ -132,6 +134,7 @@ const messages = {
     aboutUsTitle: "Sobre Nosotros",
     aboutUsMessage:
       "Somos una empresa enfocada en soluciones tecnológicas inteligentes que ayudan a las empresas a crecer, con un equipo apasionado por la innovación y la excelencia.",
+    servicesMenuLabel: "Servicios",
     serviceSectionTitle: "Nuestros Servicios",
     services: {
       web: {
@@ -193,6 +196,7 @@ const messages = {
     aboutUsTitle: "À Propos",
     aboutUsMessage:
       "Nous sommes une entreprise spécialisée dans des solutions technologiques intelligentes qui aident les entreprises à croître, avec une équipe passionnée par l'innovation et l'excellence.",
+    servicesMenuLabel: "Services",
     serviceSectionTitle: "Nos Services",
     services: {
       web: {

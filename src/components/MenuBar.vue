@@ -33,7 +33,9 @@
             <a class="nav-link" href="#sobre">{{ $t("about") }}</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#servicos">{{ $t("services") }}</a>
+            <a class="nav-link" href="#servicos">{{
+              $t("servicesMenuLabel")
+            }}</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#contacto">{{ $t("contact") }}</a>
