@@ -31,9 +31,7 @@ import Service from "@/components/Service.vue";
 
 <style scoped>
 .page-container {
-  width: 100vw;
-  height: 100%;
   overflow-x: hidden;
-  margin-top: 120px; /* Ajuste a altura para garantir que o conteúdo não fique escondido pelo MenuBar fixo */
+  margin-top: 105px;
 }
 </style>

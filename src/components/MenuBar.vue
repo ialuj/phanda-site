@@ -128,8 +128,7 @@ const changeLanguage = (lang) => {
   color: #f0c040 !important;
 }
 
-/* Garante que o MenuBar tenha altura suficiente e não seja sobreposto */
 .navbar {
-  z-index: 1050; /* Garante que o menu fique acima do cabeçalho */
+  z-index: 1050;
 }
 </style>
